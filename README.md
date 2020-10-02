@@ -2,7 +2,6 @@
 <p>
   Mude Apenas as informações, não tire os creditos pois deu trabalho para montar o designer.
 </p>
-___________________________________________________________________________
 
 # Iniciando
 <p> Caso você queira implementar uma API ou um dashboard, use um arquivo estatico js, ou seja arquivo.ejs
